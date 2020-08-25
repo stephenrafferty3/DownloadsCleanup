@@ -1,4 +1,4 @@
-# DownloadsCleanup
+# Downloads Cleanup
 
 Script to clean up downloads folder
 
